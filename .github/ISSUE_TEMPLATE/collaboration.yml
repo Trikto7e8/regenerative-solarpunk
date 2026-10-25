@@ -1,0 +1,23 @@
+name: Collaborazione / Collaboration
+description: Offri una competenza, arte o traduzione / Offer a skill, art or translation
+title: '[Collaboration] '
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Cosa proponi / What you propose
+      description: Anche una domanda e un contributo / A question is a contribution too.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Piccolo risultato e lingua / Small output and language
+      description: Indica limiti e aiuto necessario senza dati privati / State limits and help needed without private data.
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Fonti, diritti e AI / Sources, rights and AI
+      description: Attribuzione, licenza, strumenti AI e verifiche / Attribution, license, AI tools and checks.

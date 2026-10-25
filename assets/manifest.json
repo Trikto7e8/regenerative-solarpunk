@@ -1,0 +1,26 @@
+[
+  {
+    "path": "assets/images/community-workshop.png",
+    "bytes": 3184588,
+    "sha256": "7c6e533270588f90337f09b7d1bb8c999be8a4509b0a80b634a3a0c20adf6da0",
+    "git_blob_sha": "35dbfe17c7dc7bb16c6ee31ace42dbb72af0c4b4"
+  },
+  {
+    "path": "assets/images/dense-neighborhood.png",
+    "bytes": 3518816,
+    "sha256": "5d452fe01d4847a55707191cb8817e3f828585b68040a65f7f2c10bba27ee268",
+    "git_blob_sha": "f6a83eca672718f18ebbde77a7ed72c28fcbac27"
+  },
+  {
+    "path": "assets/images/living-systems.png",
+    "bytes": 3908676,
+    "sha256": "2645f133c8ea24fb8cb6f1a3be42938ef493d5cf08c6e6e3ade331937b960d05",
+    "git_blob_sha": "880fa2db0639ef00d6fcc00e8931517bb42fea9c"
+  },
+  {
+    "path": "assets/images/mediterranean-commons.png",
+    "bytes": 3644290,
+    "sha256": "1b0faa22d5b21bcece13e17714c2876735c13730fe1d50c7a9e880f8db667833",
+    "git_blob_sha": "51cf35dcbc8437be967538a76becb8b708d3e1ff"
+  }
+]

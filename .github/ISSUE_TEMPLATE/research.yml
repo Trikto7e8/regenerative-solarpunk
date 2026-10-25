@@ -1,0 +1,35 @@
+name: Ricerca o dato / Research or data
+description: Proponi una domanda, fonte o protocollo / Propose a question, source or protocol
+title: '[Research] '
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Domanda e contesto / Question and context
+      description: Indica il living lab se pertinente / Identify a living lab if relevant.
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Tipo di contributo / Contribution type
+      options:
+        - Visione / Vision
+        - Ipotesi / Hypothesis
+        - Simulazione / Simulation
+        - Osservazione / Observation
+        - Fonte o metodo / Source or method
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Fonti, metodi e limiti / Sources, methods and limits
+      description: URL, data, licenza, unita, confini, incertezza e dati mancanti. Nessun dato personale. / URL, date, license, units, boundaries, uncertainty and gaps. No personal data.
+    validations:
+      required: true
+  - type: textarea
+    id: next
+    attributes:
+      label: Primo passo e assistenza AI / First step and AI assistance
+      description: Proponi un piccolo risultato e dichiara l'eventuale AI / Propose a small output and disclose any AI use.

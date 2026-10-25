@@ -1,0 +1,23 @@
+# Registro del lavoro / Work log
+
+## 2026-10-25 · Prima edizione / Initial edition
+
+**IT.** Su richiesta e autorizzazione dell'iniziatore è stato creato il repository pubblico `Trikto7e8/regenerative-solarpunk`. L'account è stato verificato con il collegamento GitHub; la creazione è avvenuta attraverso il modulo GitHub perché il connettore non esponeva la creazione repository. La visibilità pubblica è stata verificata tramite API. I contenuti sono stati preparati localmente per la pubblicazione tramite il connettore GitHub.
+
+Sono stati scritti README e manifesto completi IT/EN, principio di negentropia locale, regole per contribuire, codice di condotta, governance iniziale, riferimenti attribuiti e licenze separate CC BY-SA 4.0/MIT. Il testo completo CC BY-SA è stato scaricato dalla fonte ufficiale. Sono state preparate schede bilingui per Torre a Mare e Shenzhen, protocolli, domande, roadmap condizionali e dati da acquisire. Huaqiangbei resta candidato; non sono stati inventati valori locali, partner o permessi.
+
+La serie di immagini AI e i prompt sono documentati in `assets/PROVENANCE.md`; l'immagine della precedente chat non era accessibile. Sono stati preparati una galleria con inviti concreti, un open call, testi IT/EN da condividere, moduli issue e un template per le proposte. I testi per social o contatti esterni non sono stati inviati. Fonti esterne verificate: Flynn/Project Hieroglyph, ReDes, Solarpunk Press, Warka Water, Shenzhen Government Online e Creative Commons; i testi dei manifesti precedenti non sono stati riprodotti.
+
+Tutti i testi e le traduzioni di questa edizione sono stati preparati dall'agente Codex con assistenza AI, seguendo le indicazioni dell'iniziatore umano; non è rivendicata una revisione indipendente scientifica, linguistica o legale. Le immagini sono state ispezionate come visioni concettuali. Verifiche previste per la pubblicazione: riferimenti locali, struttura dei file, inventario remoto e corrispondenza dei contenuti. Non sono stati svolti sopralluoghi, misure, simulazioni di prestazioni o progetti esecutivi.
+
+Limiti da affrontare con la comunità: recapito privato per segnalazioni di condotta, revisori indipendenti, interlocutori locali, traduzione cinese, fonti territoriali e validazione dei protocolli. L'istituzione dei living lab dipende da consenso e accordi futuri.
+
+**EN.** At the initiator's request and authorization, the public repository `Trikto7e8/regenerative-solarpunk` was created. The account was verified through the GitHub connection; creation used GitHub's form because the connector did not expose repository creation. Public visibility was verified through the API. Contents were prepared locally for publication through the GitHub connector.
+
+Complete IT/EN README and manifesto, the local-negentropy principle, contribution rules, conduct code, initial governance, attributed references and separate CC BY-SA 4.0/MIT licensing were written. The complete CC BY-SA text was downloaded from the official source. Bilingual Torre a Mare and Shenzhen briefs include protocols, questions, conditional roadmaps and missing data. Huaqiangbei remains a candidate; no local values, partners or permits were invented.
+
+The AI image series and prompts are documented in `assets/PROVENANCE.md`; the earlier chat image was inaccessible. A gallery with concrete invitations, open call, IT/EN sharing copy, issue forms and proposal template were prepared. Social copy and external-contact messages were not sent. Verified external references: Flynn/Project Hieroglyph, ReDes, Solarpunk Press, Warka Water, Shenzhen Government Online and Creative Commons; previous manifestos were not reproduced.
+
+All texts and translations in this edition were prepared by the Codex agent with AI assistance following human direction; independent scientific, linguistic or legal review is not claimed. Images were inspected as conceptual visions. Publication checks were planned for local references, file structure, remote inventory and content correspondence. No site visits, measurements, performance simulations or construction designs were carried out.
+
+Limitations for the community to address: private conduct-reporting contact, independent reviewers, local collaborators, Chinese translation, territorial sources and protocol validation. Establishing living labs depends on future consent and agreements.

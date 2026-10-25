@@ -1,0 +1,16 @@
+name: Correzione o critica / Correction or critique
+description: Segnala errori o impatti nascosti / Report errors or hidden impacts
+title: '[Review] '
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Passaggio e problema / Passage and problem
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidenza, limiti e correzione proposta / Evidence, limits and proposed correction
+    validations:
+      required: true
