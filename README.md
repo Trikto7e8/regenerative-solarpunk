@@ -1,6 +1,8 @@
 # Regenerative Solarpunk
 
-**Abitare significa partecipare alla vita. / To inhabit a place is to participate in life.**
+**La nostra missione: costruire e far crescere luoghi che rigenerano la vita.**
+
+**Our mission: building and growing places that regenerate life.**
 
 ![Visione mediterranea con torri intrecciate per la raccolta dell'acqua / Mediterranean vision with woven water collectors](assets/images/mediterranean-commons.png)
 
@@ -13,6 +15,10 @@ Regenerative Solarpunk è una prospettiva che prosegue il movimento Solarpunk, n
 Il principio fondativo è la **negentropia locale**: sistemi aperti che mantengono e ricostruiscono organizzazione vivente grazie a flussi di energia e materia, rispettando i vincoli termodinamici e rendendo visibili gli impatti oltre i propri confini. Non promettiamo energia dal nulla, cicli materiali perfetti o un unico numero che misuri la vita. Vogliamo rendere verificabile il passaggio da consumare un territorio a prendersene cura.
 
 Questo repository è un bene comune in costruzione: manifesto, immagini per immaginare possibilità, metodi per verificarle e due programmi di ricerca territoriali. Nessun living lab è oggi dichiarato operativo; non sono stati raccolti dati di campo, stipulati accordi locali o autorizzati interventi.
+
+Vogliamo far crescere **strutture vive**: alberi, rami e radici come parti dell'architettura, ponti sperimentali, coperture e ombreggiamenti vivi. Esploriamo anche materiali viventi e la collaborazione con **AI, robot e androidi** nella costruzione, nell'osservazione e nella cura dei luoghi, verificando utilità e impatti di ogni soluzione.
+
+Riferimenti diretti: [Warka Towers — Arturo Vittori / Warka Water](https://warkawater.org/warkatower/), [ponti di radici vive — Meghalaya Biodiversity Board](https://megbiodiversity.nic.in/living-root-bridges), [Baubotanik — Ferdinand Ludwig / TUM](https://www.tum.de/en/news-and-events/all-news/press-releases/details/34766-1).
 
 ### Entra nel progetto
 
@@ -29,6 +35,10 @@ Regenerative Solarpunk is a continuing perspective within the Solarpunk movement
 Our founding principle is **local negentropy**: open systems that sustain and rebuild living organization through energy and matter flows, respecting thermodynamic constraints and making impacts beyond their boundaries visible. We promise neither energy from nothing, perfectly closed material loops nor a single number measuring life. We want a verifiable transition from consuming a place to caring for it.
 
 This repository is a commons in progress: a manifesto, images to imagine possibilities, methods to test them and two place-based research programmes. Neither living lab is currently claimed to be operational; no field data have been collected, local agreements concluded or interventions authorized.
+
+We want to grow **living structures**: trees, branches and roots as parts of architecture, experimental bridges, living roofs and shade. We also explore living materials and collaboration with **AI, robots and androids** in building, observation and care, assessing each solution's usefulness and impacts.
+
+Direct references: [Warka Towers — Arturo Vittori / Warka Water](https://warkawater.org/warkatower/), [living root bridges — Meghalaya Biodiversity Board](https://megbiodiversity.nic.in/living-root-bridges), [Baubotanik — Ferdinand Ludwig / TUM](https://www.tum.de/en/news-and-events/all-news/press-releases/details/34766-1).
 
 ### Join the project
 
@@ -50,4 +60,4 @@ See [the gallery and collaboration prompts / galleria e inviti](community/GALLER
 
 Testi e immagini originali: **CC BY-SA 4.0**, nei limiti dei diritti esistenti. Codice originale: **MIT**. Materiali di terzi e dataset conservano i propri termini; nessuna licenza di questo repository li sostituisce. La licenza non crea diritti esclusivi su elementi AI non tutelabili. / Original text and images: **CC BY-SA 4.0**, to the extent rights exist. Original code: **MIT**. Third-party materials and datasets retain their terms; repository licenses do not override them or create exclusive rights in uncopyrightable AI elements. See [LICENSE](LICENSE).
 
-Versione iniziale / Initial version: 2026-10-25. [Registro del lavoro / Work log](docs/WORK_LOG.md).
+Aggiornato / Updated: 2026-10-25. [Registro del lavoro / Work log](docs/WORK_LOG.md).

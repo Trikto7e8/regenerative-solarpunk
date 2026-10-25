@@ -1,95 +1,151 @@
-# Manifesto Regenerative Solarpunk
+# Regenerative Solarpunk
+## Una missione: costruire luoghi che rigenerano la vita
+### A mission: building places that regenerate life
 
-Versione 0.1 · 25 ottobre 2026 · Testo aperto alla revisione / Open for revision
+[Italiano](#italiano) · [English](#english) · [Riferimenti / References](#riferimenti--references)
+
+<a id="italiano"></a>
 
 ## Italiano
 
-### 1. Una continuità plurale
+**Vogliamo trasformare il modo in cui abitiamo il pianeta: costruire e far crescere insediamenti capaci di rigenerare suolo, acqua, energia disponibile, biodiversità e relazioni umane.**
 
-Solarpunk esiste prima di questo progetto: nelle storie, nell'arte, nell'attivismo e nelle pratiche di molte comunità. Regenerative Solarpunk ne prosegue il cammino con un punto di vista: gli insediamenti antropici possono partecipare attivamente alla rigenerazione dei sistemi viventi. Non è un fork del movimento, un marchio che lo possiede o un movimento concorrente. Riconosciamo i precedenti manifesti e i saperi che li precedono; invitiamo al dialogo, anche al dissenso.
+Regenerative Solarpunk prosegue il movimento Solarpunk attraverso questa missione. Nasce dall'incontro fra immaginazione, conoscenze locali, scienza, arte e tecnologia. Riconosce le molte comunità e i manifesti che hanno già aperto questo cammino: [Adam Flynn, *Solarpunk: Notes toward a manifesto*](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) e [*A Solarpunk Manifesto*, ospitato da ReDes](https://re-des.org/a-solarpunk-manifesto/), fra gli altri. È una prospettiva in continuità con il movimento, non un fork né un movimento concorrente.
 
-### 2. Negentropia locale: il principio fondativo
+### 1. Rigenerare, a partire dalla negentropia locale
 
-Chiamiamo negentropia locale la capacità di un sistema aperto di sostenere e ricostruire organizzazione, cicli ecologici e condizioni di abitabilità usando flussi di energia e materia. Un bosco e un quartiere non sono scatole isolate: ricevono radiazione solare, acqua, nutrienti, beni e lavoro; cedono calore, materiali ed emissioni. L'energia si conserva, ma la sua capacità di compiere lavoro si degrada nelle trasformazioni. L'entropia totale di un sistema isolato non diminuisce; creare o mantenere ordine locale comporta produzione di entropia e scambi con l'ambiente. Non proponiamo di annullare questa legge.
+Il principio fondativo è la **negentropia locale**: la capacità di sistemi aperti di mantenere e ricostruire organizzazione vivente e condizioni di abitabilità attraverso flussi di energia e materia.
 
-Per un volume di controllo aperto, il bilancio è schematicamente dS/dt = flussi entropici entranti − uscenti + produzione interna, con produzione interna ≥ 0. I flussi comprendono materia e trasferimenti termici; per radiazione e processi reali occorrono modelli appropriati. Questa relazione non è un calcolatore di sostenibilità urbana. La complessità ecologica, la biodiversità e la giustizia non sono intercambiabili con un valore di entropia. Il termine esprime qui un orientamento rigenerativo fisicamente vincolato, non una certificazione.
+Un insediamento scambia continuamente con il territorio: riceve luce solare, acqua, nutrienti, materiali, beni e lavoro; restituisce calore, acqua, materiali ed emissioni. L'energia si conserva, mentre la sua capacità di compiere lavoro si degrada nelle trasformazioni. L'organizzazione locale può crescere grazie a questi scambi, rispettando il secondo principio della termodinamica: la produzione interna di entropia è non negativa e l'entropia totale di un sistema isolato non diminuisce. I cicli materiali richiedono apporti e comportano perdite; la rigenerazione ha bisogno di energia e cura.
 
-Ogni proposta deve dichiarare confini geografici e temporali, flussi importati ed esportati e dipendenze. Consideriamo estrazione, produzione, trasporto, installazione, manutenzione, lavoro, dismissione e trattamento degli scarti. La pulizia di una piazza non compensa l'inquinamento nascosto altrove; l'energia rinnovabile non cancella automaticamente gli impatti di materiali e reti. Registriamo consumi diretti, energia incorporata, acqua virtuale quando valutabile, rifiuti e pressioni sugli ecosistemi di provenienza, indicando le lacune.
+La missione è orientare questi flussi verso condizioni che sostengano più vita: ricostruire suolo fertile, trattenere e restituire acqua di qualità adeguata, riconnettere habitat, ridurre la domanda energetica e condividere eventuali eccedenze rinnovabili. Le eccedenze vanno dimostrate per ciascuna risorsa, nel tempo e nel luogo pertinenti. Un saldo annuo favorevole non dimostra autonomia in ogni ora; la raccolta d'acqua non ne dimostra la potabilità.
 
-Vogliamo eccedenze utili dove ecologicamente e socialmente appropriate: energia rinnovabile condivisa dopo aver ridotto la domanda; acqua trattenuta e restituita in condizioni compatibili con i bacini; suolo fertile ricostruito; habitat connessi; conoscenza e capacità di cura diffuse. Non diciamo di produrre materia o acqua dal nulla. Misuriamo quantità, qualità, stagionalità e distribuzione: un saldo energetico annuo favorevole non dimostra autonomia oraria; più acqua raccolta non implica acqua potabile; più verde non dimostra biodiversità. Non sommiamo unità incompatibili in un saldo unico. Un miglioramento locale deve superare anche una verifica degli impatti esterni, degli effetti di rimbalzo e di chi ne sostiene il costo.
+**Il beneficio locale comprende la responsabilità per ciò che accade altrove.** Ogni proposta esplicita confini, importazioni, esportazioni, estrazione, produzione, trasporto, manutenzione e fine vita. Valutiamo anche lavoro, effetti di rimbalzo e distribuzione dei costi. Un quartiere non diventa rigenerativo spostando inquinamento, sfruttamento o scarsità oltre il proprio confine.
 
-### 3. Insediamenti come ecosistemi rigenerativi
+Usiamo indicatori distinti per suolo, acqua, energia, biodiversità e benessere umano, con dati, metodi e incertezze dichiarati. La negentropia locale guida il progetto; non riduce il valore della vita a un unico numero.
 
-Dal villaggio al quartiere metropolitano, pensiamo l'abitare come una rete di relazioni. Restituiamo spazio al suolo permeabile, tuteliamo la vita sotterranea, preveniamo erosione e contaminazione, compostiamo solo flussi idonei e controllati. Rallentiamo, raccogliamo e riutilizziamo l'acqua dove consentito, rispettando deflussi ecologici, igiene e capacità di infiltrazione. Riduciamo la domanda energetica con ombra, ventilazione, isolamento, mobilità accessibile e servizi di prossimità; valutiamo produzione e accumulo lungo l'intero ciclo di vita.
+### 2. Far crescere strutture vive
 
-Colleghiamo habitat per specie appropriate al luogo, evitiamo specie invasive e affrontiamo il conflitto tra usi umani e bisogni delle altre forme di vita. Un tetto coltivato richiede verifiche strutturali, acqua, manutenzione e persone che possano prendersene cura. La rigenerazione include spazi ordinari e infrastrutture funzionanti, non soltanto immagini spettacolari.
+Le **strutture vive** sono parte centrale della nostra ricerca: architetture in cui alberi, tronchi, rami e radici ancora vivi partecipano alla forma e, dove verificato, alla funzione costruttiva.
 
-### 4. Tecnologia appropriata e conoscenza aperta
+Vogliamo esplorare ponti di radici, percorsi sostenuti da elementi vegetali vivi, padiglioni, coperture e ombreggiamenti formati dalla crescita guidata di alberi e rampicanti. Un'architettura può essere coltivata e accompagnata nel tempo, anche integrando componenti tecnici, anziché essere soltanto assemblata. Per noi vivere in un luogo significa anche assumersi la cura della sua crescita.
 
-Scegliamo strumenti riparabili, comprensibili, accessibili e proporzionati al contesto. Un dispositivo semplice e ben mantenuto può essere preferibile a un sistema sofisticato dipendente da fornitori lontani. Pubblicare codice, schemi, distinta materiali, protocolli e limiti consente revisione e adattamento: usiamo licenze aperte adeguate e rispettiamo i diritti altrui. L'apertura del codice non garantisce da sola sostenibilità o accesso equo.
+I [ponti di radici vive del Meghalaya, documentati dal Meghalaya Biodiversity Board](https://megbiodiversity.nic.in/living-root-bridges), sono un riferimento concreto di conoscenza e cura comunitaria. Riconosciamo il sapere delle comunità che li coltivano: non sono un'invenzione di questo progetto. La [Baubotanik, illustrata da Ferdinand Ludwig alla Technical University of Munich](https://www.tum.de/en/news-and-events/all-news/press-releases/details/34766-1), offre un altro riferimento per costruire con piante vive.
 
-Le strutture di raccolta ispirate alle Warka Towers di Arturo Vittori/Warka Water sono un riferimento da attribuire, non una soluzione universale. Pioggia, nebbia e rugiada hanno meccanismi e disponibilità differenti. Prima di una torre servono confronti con riduzione delle perdite, raccolta dai tetti e altre alternative, dati meteorologici locali, piccoli test, valutazione di contaminanti, sicurezza strutturale e manutenzione. Nessuna resa o potabilità è presunta; nessuna affiliazione è implicata.
+Apriamo inoltre una linea di ricerca sui **materiali viventi**, distinguendoli dai materiali semplicemente di origine biologica: studiamo sistemi che mantengono organismi vitali e funzioni biologiche durante l'uso, dichiarandone lo stato sperimentale.
 
-### 5. Comunità, giustizia e diritto a restare
+Ogni proposta considera clima, specie, tempi di crescita, disponibilità d'acqua, salute degli organismi, manutenzione, accessibilità e sicurezza. Per elementi portanti servono verifiche botaniche e strutturali e condizioni d'uso documentate. Strutture vive e soluzioni convenzionali si confrontano sul contesto e sull'intero ciclo di vita: la scelta nasce dai benefici dimostrabili, non dall'etichetta “vivente”.
 
-Gli abitanti sono coautori, non sfondo delle immagini. Le decisioni devono coinvolgere chi vive, lavora e cura il luogo, inclusi gruppi poco ascoltati. Riconosciamo conoscenze locali, indigene e artigiane con attribuzione, consenso e compenso quando dovuto. Non trasformiamo il verde in un pretesto per espulsione, sorveglianza o privatizzazione dei beni comuni. Valutiamo accessibilità, distribuzione dei benefici, costo dell'abitare e carico del lavoro di cura. La resilienza locale è cooperazione tra territori, non isolamento o obbligo di autosufficienza.
+### 3. Abitare come parte di un ecosistema
 
-### 6. Collaborazione trasparente con AI
+Dal villaggio al quartiere metropolitano, progettiamo relazioni fra suolo, acqua, energia e altre forme di vita. Favoriamo suoli permeabili e fertili, habitat connessi e specie appropriate al luogo. Riduciamo i consumi con ombra, ventilazione, riuso degli edifici, mobilità accessibile e servizi vicini. Pensiamo insieme a raccolta, stoccaggio e riuso dell'acqua, rispettando i bisogni degli ecosistemi e la qualità richiesta da ciascun uso.
 
-Le AI possono aiutare a tradurre, disegnare, esplorare scenari, programmare e individuare domande. Gli esseri umani mantengono responsabilità, scelte e verifica. Dichiariamo strumento, data, funzione e limiti del contributo AI; conserviamo i prompt delle immagini e segnaliamo le visioni sintetiche. Non inventiamo fonti, misure, consenso o persone. Non inviamo dati personali o saperi riservati a servizi AI senza autorizzazione. Valutiamo anche risorse computazionali, accessibilità e dipendenze dagli operatori. Una risposta AI non sostituisce una fonte o un confronto con la comunità.
+Le [**Warka Towers di Warka Water, ideate dall'architetto Arturo Vittori**](https://warkawater.org/warkatower/), sono un riferimento per esplorare la raccolta di pioggia, nebbia e rugiada e il rapporto fra infrastruttura e spazio comunitario. Le [FAQ del progetto](https://warkawater.org/faq/) permettono di approfondirne principi e condizioni d'impiego.
 
-### 7. Immaginare, sperimentare, rendere conto
+Le studiamo accanto alla riduzione delle perdite, alla raccolta dai tetti e ad altre soluzioni. Resa, qualità dell'acqua e utilità dipendono dal sito e richiedono misure e sperimentazione. Le strutture intrecciate raffigurate nelle nostre immagini sono interpretazioni ispirate a questo lavoro, attribuito ai suoi autori.
 
-L'utopia apre domande; la ricerca distingue ciò che desideriamo da ciò che sappiamo. Etichettiamo ogni risultato come visione, ipotesi, simulazione o osservazione, con provenienza, metodo, incertezza e data. Definiamo baseline, alternative, criteri di successo e di arresto prima degli esperimenti. Pubblichiamo anche esiti negativi, costi, manutenzione e conflitti; proteggiamo dati personali e localizzazioni ecologiche sensibili. I living lab iniziano dall'ascolto e da interventi piccoli, reversibili e autorizzati.
+### 4. Collaborare con AI, robot e androidi
 
-### 8. Un invito aperto
+Nel nostro Solarpunk, **esseri umani, AI, robot e androidi possono collaborare** alla conoscenza, alla costruzione e alla cura dei luoghi. Esploriamo macchine che aiutino a riparare, recuperare materiali, osservare ecosistemi, seguire la crescita delle strutture vive, gestire risorse e svolgere compiti gravosi o pericolosi.
 
-Chiunque può contribuire. Cerchiamo chi sappia fare domande, riparare un oggetto, osservare una stagione, tradurre una pagina o correggere un errore. Nessuno deve essere esperto di tutto. Costruiamo insieme luoghi che rendano possibile altra vita e comunità capaci di continuare a prendersene cura.
+La forma della macchina segue il compito: un robot specializzato o un androide può avere senso quando la sua utilità è dimostrata nel contesto. Il progetto valuta sicurezza, accessibilità, consumi, materiali, riparabilità, fine vita e conseguenze sul lavoro. Le persone coinvolte partecipano alle decisioni; responsabilità e possibilità di intervento umano restano esplicite.
 
-## English
+Le AI possono contribuire a tradurre, disegnare, programmare e confrontare scenari. Dichiariamo come le utilizziamo e verifichiamo i risultati. Le immagini generate sono presentate come visioni progettuali; le figure umane che contengono non vengono indicate come abitanti, collaboratori o partecipanti reali. Fonti, misure, adesioni e testimonianze devono essere autentiche e verificabili.
 
-### 1. A plural continuity
+### 5. Rendere la tecnologia comprensibile e condivisibile
 
-Solarpunk predates this project: in stories, art, activism and the practices of many communities. Regenerative Solarpunk continues that journey through a particular perspective: human settlements can actively participate in regenerating living systems. It is not a fork of the movement, a brand owning it or a competing movement. We acknowledge earlier manifestos and the knowledge preceding them, and invite dialogue, including disagreement.
+Sosteniamo tecnologie appropriate e open source: strumenti che le comunità possano comprendere, adattare, mantenere e riparare. Condividiamo codice, schemi, distinte materiali, protocolli e limiti con licenze adeguate, rispettando i diritti e i saperi di chi contribuisce.
 
-### 2. Local negentropy: the founding principle
+La ricerca comprende sia soluzioni semplici sia tecnologie avanzate. Scegliamo in base a utilità, accessibilità, impatti e capacità locale di cura. La conoscenza aperta rende possibile controllare le proposte e migliorarle insieme.
 
-We use local negentropy to describe an open system's capacity to sustain and rebuild organization, ecological cycles and conditions for inhabitation through energy and matter flows. A forest and a neighborhood are not isolated boxes: they receive sunlight, water, nutrients, goods and labour, and release heat, materials and emissions. Energy is conserved, but its ability to perform work degrades through transformations. The total entropy of an isolated system cannot decrease; creating or maintaining local order entails entropy production and exchanges with the environment. We do not propose to overturn this law.
+### 6. Mettere le comunità al centro
 
-For an open control volume, the schematic balance is dS/dt = incoming entropy flows − outgoing flows + internal production, with internal production ≥ 0. Flows include matter and heat transfers; radiation and real processes require appropriate models. This relation is not an urban sustainability calculator. Ecological complexity, biodiversity and justice are not interchangeable with an entropy value. Here the term expresses a physically constrained regenerative direction, not a certification.
+Chi vive, lavora e si prende cura di un luogo partecipa alla sua trasformazione. Riconosciamo competenze locali, indigene, scientifiche e artigiane, con attribuzione, consenso e compenso quando dovuto. Valutiamo accessibilità, costo dell'abitare, distribuzione dei benefici e lavoro di cura.
 
-Every proposal must state geographical and temporal boundaries, imported and exported flows, and dependencies. We consider extraction, manufacturing, transport, installation, maintenance, labour, decommissioning and waste treatment. A clean square does not compensate for pollution hidden elsewhere; renewable power does not automatically erase the impacts of materials and grids. We record direct consumption, embodied energy, virtual water where assessable, waste and pressures on source ecosystems, identifying gaps.
+La rigenerazione deve sostenere il diritto a restare e l'accesso ai beni comuni. La resilienza cresce attraverso la cooperazione fra territori. Proteggiamo dati personali e conoscenze riservate; l'uso di AI e robot deve rispettare queste scelte e la capacità delle comunità di governarle.
 
-We seek useful surpluses where ecologically and socially appropriate: shared renewable power after reducing demand; water retained and returned in conditions compatible with catchments; rebuilt fertile soil; connected habitats; widely shared knowledge and capacities for care. We do not claim to create matter or water from nothing. We measure quantity, quality, seasonality and distribution: a favourable annual energy balance does not demonstrate hourly autonomy; more collected water does not imply drinking water; more greenery does not demonstrate biodiversity. We do not add incompatible units into one balance. Local improvement must also pass scrutiny of external impacts, rebound effects and who bears the costs.
+### 7. Trasformare la missione in progetti verificabili
 
-### 3. Settlements as regenerative ecosystems
+Procediamo attraverso ascolto, progettazione condivisa, sperimentazione e verifica. Distinguiamo visioni, ipotesi, simulazioni e risultati osservati. Prima di un esperimento definiamo condizioni di partenza, alternative, criteri di successo, responsabilità e condizioni di arresto; documentiamo anche costi, manutenzione e risultati negativi.
 
-From villages to metropolitan neighborhoods, we understand inhabitation as a web of relationships. We make space for permeable soil, protect underground life, prevent erosion and contamination, and compost only suitable, controlled streams. We slow, collect and reuse water where permitted, respecting environmental flows, hygiene and infiltration capacity. We reduce energy demand through shade, ventilation, insulation, accessible mobility and nearby services, and assess generation and storage across their life cycles.
+I primi percorsi di ricerca sono [Torre a Mare](living-labs/torre-a-mare/README.md) e [Shenzhen](living-labs/shenzhen/README.md), dove Huaqiangbei resta un candidato da valutare con interlocutori locali. Sono proposte da costruire con le comunità interessate: il repository non attesta interventi autorizzati, adesioni locali o dati di campo già acquisiti.
 
-We connect habitats for locally appropriate species, avoid invasive species and address conflicts between human uses and the needs of other life. A cultivated roof requires structural assessment, water, maintenance and people able to care for it. Regeneration includes ordinary places and functioning infrastructure, not only spectacular pictures.
-
-### 4. Appropriate technology and open knowledge
-
-We choose tools that are repairable, understandable, accessible and proportionate to context. A simple, well-maintained device can be preferable to a sophisticated system dependent on distant suppliers. Publishing code, drawings, bills of materials, protocols and limitations enables review and adaptation: we use appropriate open licenses and respect others' rights. Open code alone guarantees neither sustainability nor equitable access.
-
-Water collectors inspired by the Warka Towers of Arturo Vittori/Warka Water are a reference to credit, not a universal solution. Rain, fog and dew have different mechanisms and availability. Before a tower, we need comparisons with leakage reduction, roof collection and other alternatives, local meteorological data, small tests, contaminant assessment, structural safety and maintenance. No yield or potability is assumed; no affiliation is implied.
-
-### 5. Community, justice and the right to remain
-
-Residents are coauthors, not scenery. Decisions must involve those who live, work and care in a place, including people seldom heard. We recognize local, Indigenous and craft knowledge with attribution, consent and compensation where due. Green space must not become a pretext for displacement, surveillance or privatizing commons. We assess accessibility, benefit distribution, housing costs and care workloads. Local resilience means cooperation between places, not isolation or compulsory self-sufficiency.
-
-### 6. Transparent collaboration with AI
-
-AI can help translate, draw, explore scenarios, program and identify questions. Humans retain responsibility, choices and verification. We disclose the tool, date, role and limitations of AI contributions, preserve image prompts and label synthetic visions. We do not invent sources, measurements, consent or people. We do not send personal data or confidential knowledge to AI services without authorization. We also consider computing resources, accessibility and dependencies on operators. An AI answer does not replace a source or community dialogue.
-
-### 7. Imagine, experiment, account
-
-Utopia opens questions; research distinguishes what we desire from what we know. We label each output as vision, hypothesis, simulation or observation, with provenance, method, uncertainty and date. We establish baselines, alternatives, success criteria and stop conditions before experiments. We publish negative outcomes, costs, maintenance and conflicts, while protecting personal data and sensitive ecological locations. Living labs begin with listening and small, reversible, authorized interventions.
-
-### 8. An open invitation
-
-Anyone can contribute. We welcome people who can ask questions, repair an object, observe a season, translate a page or correct an error. Nobody needs expertise in everything. Together we can build places that enable more life and communities able to keep caring for them.
+**Chiunque può contribuire.** Una competenza, una domanda, una traduzione, una fonte, un disegno o una critica possono diventare il prossimo passo. [Partecipa al progetto](community/OPEN_CALL.md).
 
 ---
 
-Fonti e debiti culturali / Sources and cultural debts: [REFERENCES.md](REFERENCES.md). Testo originale di progetto, sviluppato su indirizzo umano con assistenza AI / Original project text developed under human direction with AI assistance. CC BY-SA 4.0 where rights exist.
+<a id="english"></a>
+
+## English
+
+**We want to transform how we inhabit the planet: building and growing settlements that regenerate soil, water, available energy, biodiversity and human relationships.**
+
+Regenerative Solarpunk continues the Solarpunk movement through this mission. It brings imagination, local knowledge, science, art and technology together. We acknowledge the many communities and earlier manifestos that opened this path, including [Adam Flynn's *Solarpunk: Notes toward a manifesto*](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) and [*A Solarpunk Manifesto*, hosted by ReDes](https://re-des.org/a-solarpunk-manifesto/). This is a continuing perspective within the movement, not a fork or a competing movement.
+
+### 1. Regenerate through local negentropy
+
+Our founding principle is **local negentropy**: the capacity of open systems to sustain and rebuild living organization and conditions for inhabitation through energy and matter flows.
+
+A settlement continually exchanges with its surroundings: it receives sunlight, water, nutrients, materials, goods and labour, and releases heat, water, materials and emissions. Energy is conserved while its capacity to perform work degrades through transformations. Local organization can increase through these exchanges, respecting the second law of thermodynamics: internal entropy production is non-negative and the total entropy of an isolated system cannot decrease. Material cycles require inputs and entail losses; regeneration needs energy and care.
+
+Our mission is to direct these flows towards conditions that support more life: rebuilding fertile soil, retaining and returning water of appropriate quality, reconnecting habitats, reducing energy demand and sharing any renewable surpluses. Surpluses must be demonstrated for each resource at relevant times and places. A favourable annual balance does not demonstrate autonomy every hour; collecting water does not establish its potability.
+
+**Local benefit includes responsibility for what happens elsewhere.** Every proposal makes boundaries, imports, exports, extraction, production, transport, maintenance and end of life explicit. We also assess labour, rebound effects and cost distribution. A neighborhood does not become regenerative by moving pollution, exploitation or scarcity beyond its boundary.
+
+We use separate indicators for soil, water, energy, biodiversity and human well-being, disclosing data, methods and uncertainty. Local negentropy guides the project; it does not reduce the value of life to a single number.
+
+### 2. Grow living structures
+
+**Living structures** are central to our research: architectures in which living trees, trunks, branches and roots contribute to form and, where verified, construction function.
+
+We want to explore root bridges, routes supported by living plant elements, pavilions, roofs and shading formed by guiding the growth of trees and climbers. Architecture can be cultivated and accompanied over time, including through integration with technical components, rather than only assembled. For us, inhabiting a place also means caring for its growth.
+
+The [living root bridges of Meghalaya, documented by the Meghalaya Biodiversity Board](https://megbiodiversity.nic.in/living-root-bridges), offer a concrete reference for community knowledge and care. We acknowledge the knowledge of the communities cultivating them: they are not this project's invention. [Baubotanik, explained by Ferdinand Ludwig at the Technical University of Munich](https://www.tum.de/en/news-and-events/all-news/press-releases/details/34766-1), offers another reference for building with living plants.
+
+We also open a research direction on **living materials**, distinguishing them from materials merely of biological origin: we study systems retaining viable organisms and biological functions during use, disclosing their experimental status.
+
+Every proposal considers climate, species, growth times, water availability, organism health, maintenance, accessibility and safety. Load-bearing elements require botanical and structural assessment and documented conditions of use. Living structures and conventional alternatives are compared in context and throughout their life cycles: choices follow demonstrable benefits rather than the “living” label.
+
+### 3. Inhabit as part of an ecosystem
+
+From villages to metropolitan neighborhoods, we design relationships between soil, water, energy and other life. We support permeable, fertile soils, connected habitats and locally appropriate species. We reduce consumption through shade, ventilation, building reuse, accessible mobility and nearby services. We consider water collection, storage and reuse together, respecting ecosystem needs and the quality required for each use.
+
+The [**Warka Towers of Warka Water, conceived by architect Arturo Vittori**](https://warkawater.org/warkatower/), are a reference for exploring rain, fog and dew collection and the relationship between infrastructure and community space. The project's [FAQ](https://warkawater.org/faq/) provides further information on principles and conditions of use.
+
+We study them alongside leakage reduction, roof capture and other solutions. Yield, water quality and usefulness depend on the site and require measurements and experiments. Woven structures in our images are interpretations inspired by this work, credited to its creators.
+
+### 4. Collaborate with AI, robots and androids
+
+In our Solarpunk, **humans, AI, robots and androids can collaborate** in understanding, building and caring for places. We explore machines helping with repair, material recovery, ecosystem observation, monitoring the growth of living structures, resource management and strenuous or dangerous tasks.
+
+A machine's form follows its task: a specialized robot or an android may be appropriate when its usefulness is demonstrated in context. The project assesses safety, accessibility, energy, materials, repairability, end of life and effects on work. Affected people participate in decisions; responsibility and the possibility of human intervention remain explicit.
+
+AI can contribute to translation, drawing, programming and comparing scenarios. We disclose its use and check its output. Generated images are presented as design visions; human figures within them are not identified as actual residents, collaborators or participants. Sources, measurements, participation claims and testimony must be authentic and verifiable.
+
+### 5. Make technology understandable and shareable
+
+We support appropriate, open-source technologies: tools communities can understand, adapt, maintain and repair. We share code, drawings, bills of materials, protocols and limitations under appropriate licenses, respecting contributors' rights and knowledge.
+
+Research includes both simple solutions and advanced technologies. We choose according to usefulness, accessibility, impacts and local care capacity. Open knowledge makes it possible to scrutinize proposals and improve them together.
+
+### 6. Put communities at the centre
+
+Those who live, work and care in a place participate in its transformation. We recognize local, Indigenous, scientific and craft knowledge through attribution, consent and compensation where due. We assess accessibility, housing costs, benefit distribution and care work.
+
+Regeneration should support the right to remain and access to commons. Resilience grows through cooperation between places. We protect personal data and confidential knowledge; AI and robotics must respect these choices and communities' capacity to govern them.
+
+### 7. Turn the mission into verifiable projects
+
+We proceed through listening, shared design, experimentation and evaluation. We distinguish visions, hypotheses, simulations and observed results. Before an experiment, we define starting conditions, alternatives, success criteria, responsibilities and stop conditions; we document costs, maintenance and negative results too.
+
+Our first research directions are [Torre a Mare](living-labs/torre-a-mare/README.md) and [Shenzhen](living-labs/shenzhen/README.md), where Huaqiangbei remains a candidate to assess with local collaborators. These proposals must be developed with the affected communities: the repository does not establish authorized interventions, local participation or existing field data.
+
+**Anyone can contribute.** A skill, question, translation, source, drawing or critique can become the next step. [Join the project](community/OPEN_CALL.md).
+
+---
+
+## Riferimenti / References
+
+[Manifesti Solarpunk e bibliografia attribuita / Attributed Solarpunk manifestos and bibliography](REFERENCES.md) · [Warka Water / Arturo Vittori](https://warkawater.org/warkatower/) · [Living root bridges — Meghalaya Biodiversity Board](https://megbiodiversity.nic.in/living-root-bridges) · [Baubotanik — TUM / Ferdinand Ludwig](https://www.tum.de/en/news-and-events/all-news/press-releases/details/34766-1)
+
+Testo sviluppato su indirizzo umano con assistenza AI; aperto ai contributi. / Developed under human direction with AI assistance; open to contributions. [CC BY-SA 4.0](LICENSE).
