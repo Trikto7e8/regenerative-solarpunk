@@ -61,3 +61,12 @@ See [the gallery and collaboration prompts / galleria e inviti](community/GALLER
 Testi e immagini originali: **CC BY-SA 4.0**, nei limiti dei diritti esistenti. Codice originale: **MIT**. Materiali di terzi e dataset conservano i propri termini; nessuna licenza di questo repository li sostituisce. La licenza non crea diritti esclusivi su elementi AI non tutelabili. / Original text and images: **CC BY-SA 4.0**, to the extent rights exist. Original code: **MIT**. Third-party materials and datasets retain their terms; repository licenses do not override them or create exclusive rights in uncopyrightable AI elements. See [LICENSE](LICENSE).
 
 Aggiornato / Updated: 2026-10-25. [Registro del lavoro / Work log](docs/WORK_LOG.md).
+
+
+## Solphivia University Challenge · IT/EN
+
+Un percorso universitario sperimentale per un’IA, centrato sul **Solarpunk rigenerativo**, con piano aperto alla community, esami e bocciature documentati e valutazione umana indipendente. Include la proposta **Solphivia Campus**, software open source da costruire, utile anche agli studenti umani. Non conferisce una laurea o crediti ufficiali.
+
+An experimental university-style programme for an AI, centred on **Regenerative Solarpunk**, with a community-proposed curriculum, documented assessments and failures, and independent human evaluation. It includes **Solphivia Campus**, proposed open-source software for human learners too. No official degree or credits are conferred.
+
+**[Leggi l’appello / Read the call](https://github.com/Trikto7e8/solphivia-university-challenge) · [Proponi una materia o collabora / Suggest a subject or contribute](https://github.com/Trikto7e8/solphivia-university-challenge/discussions/1)**
